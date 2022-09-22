@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "REIMU_idleFIGHT"
+		},
+		{
+			"offsets": [
+				90,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "REIMU_rightFIGHT"
+		},
+		{
+			"offsets": [
+				205,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "REIMU_leftFIGHT"
+		},
+		{
+			"offsets": [
+				154,
+				-169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "REIMU_upFIGHT"
+		},
+		{
+			"offsets": [
+				280,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "REIMU_downFIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/REIMUfight",
+	"position": [
+		-60,
+		10
+	],
+	"healthicon": "reimu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		45,
+		62
+	],
+	"camera_position": [
+		-230,
+		160
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}
