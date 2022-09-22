@@ -1,17 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="menu_mods.png">
-	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="mods basic0000" x="0" y="0" width="355" height="139" frameX="0" frameY="-1" frameWidth="355" frameHeight="140"/>
-	<SubTexture name="mods basic0001" x="0" y="0" width="355" height="139" frameX="0" frameY="-1" frameWidth="355" frameHeight="140"/>
-	<SubTexture name="mods basic0002" x="0" y="0" width="355" height="139" frameX="0" frameY="-1" frameWidth="355" frameHeight="140"/>
-	<SubTexture name="mods basic0003" x="356" y="0" width="355" height="140"/>
-	<SubTexture name="mods basic0004" x="356" y="0" width="355" height="140"/>
-	<SubTexture name="mods basic0005" x="356" y="0" width="355" height="140"/>
-	<SubTexture name="mods basic0006" x="0" y="141" width="353" height="139" frameX="-1" frameY="-1" frameWidth="355" frameHeight="140"/>
-	<SubTexture name="mods basic0007" x="0" y="141" width="353" height="139" frameX="-1" frameY="-1" frameWidth="355" frameHeight="140"/>
-	<SubTexture name="mods basic0008" x="0" y="141" width="353" height="139" frameX="-1" frameY="-1" frameWidth="355" frameHeight="140"/>
-	<SubTexture name="mods white0000" x="354" y="141" width="395" height="192" frameX="0" frameY="-1" frameWidth="401" frameHeight="193"/>
-	<SubTexture name="mods white0001" x="0" y="334" width="401" height="189" frameX="0" frameY="0" frameWidth="401" frameHeight="193"/>
-	<SubTexture name="mods white0002" x="402" y="334" width="400" height="189" frameX="0" frameY="-1" frameWidth="401" frameHeight="193"/>
+	<SubTexture name="mods basic0000" x="0" y="0" width="254" height="79"/>
+	<SubTexture name="mods white0000" x="254" y="0" width="442" height="156"/>
+	<SubTexture name="mods white0001" x="254" y="0" width="442" height="156"/>
+	<SubTexture name="mods white0002" x="696" y="0" width="442" height="156"/>
+	<SubTexture name="mods white0003" x="1138" y="0" width="442" height="156"/>
+	<SubTexture name="mods white0004" x="1580" y="0" width="442" height="156"/>
+	<SubTexture name="mods white0005" x="0" y="156" width="442" height="156"/>
+	<SubTexture name="mods white0006" x="442" y="156" width="442" height="156"/>
+	<SubTexture name="mods white0007" x="884" y="156" width="442" height="156"/>
+	<SubTexture name="mods white0008" x="1326" y="156" width="442" height="156"/>
+	<SubTexture name="mods white0009" x="0" y="312" width="442" height="156"/>
+	<SubTexture name="mods white0010" x="442" y="312" width="442" height="156"/>
+	<SubTexture name="mods white0011" x="884" y="312" width="442" height="156"/>
+	<SubTexture name="mods white0012" x="1326" y="312" width="442" height="156"/>
+	<SubTexture name="mods white0013" x="0" y="468" width="442" height="156"/>
+	<SubTexture name="mods white0014" x="442" y="468" width="442" height="156"/>
+	<SubTexture name="mods white0015" x="884" y="468" width="442" height="156"/>
+	<SubTexture name="mods white0016" x="1326" y="468" width="442" height="156"/>
+	<SubTexture name="mods white0017" x="0" y="624" width="442" height="156"/>
 </TextureAtlas>
