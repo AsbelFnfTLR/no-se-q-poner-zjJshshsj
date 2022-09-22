@@ -1,0 +1,11 @@
+{
+	"idle_anim": "prologue_bg",
+	"image": "prologue_menu",
+	"position": [
+		490,
+		14
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": ""
+}

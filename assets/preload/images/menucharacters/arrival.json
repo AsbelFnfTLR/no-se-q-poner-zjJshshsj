@@ -1,0 +1,11 @@
+{
+	"idle_anim": "arrival_bg",
+	"image": "arrival_menu",
+	"position": [
+		490,
+		14
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": ""
+}
