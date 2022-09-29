@@ -38,15 +38,15 @@ jobs:
         run: |
           haxelib setup ~/haxelib
           haxelib --quiet install hxcpp > /dev/null
-          haxelib --quiet install lime
-          haxelib --quiet install openfl
+          haxelib install lime 7.9.0
+          haxelib install openfl 9.1.0
           haxelib --never install flixel
           haxelib run lime setup flixel
-          haxelib --quiet install flixel-tools
-          haxelib --quiet install flixel-ui
-          haxelib --quiet install hscript
-          haxelib --quiet install flixel-addons
-          haxelib --quiet install hxCodec
+          haxelib install flixel-tools
+          haxelib install flixel-ui
+          haxelib install hscript
+          haxelib install flixel-addons
+          haxelib install hxCodec
           haxelib git linc_luajit https://github.com/MAJigsaw77/linc_luajit.git --quiet
           haxelib git extension-androidtools https://github.com/randomxdp/extension-androidtools.git --quiet
           haxelib git extension-webview https://github.com/Daninnocent/extension-webview.git --quiet
@@ -61,6 +61,9 @@ jobs:
           haxelib run lime config ANDROID_NDK_ROOT $ANDROID_NDK_HOME
           haxelib run lime config JAVA_HOME $JAVA_HOME
           haxelib run lime config ANDROID_SETUP true
+          haxelib install lime 7.9.0
+          haxelib install openfl 9.1.0
+          haxelib list
         env:
           ANDROID_NDK_HOME: ${{ steps.setup-ndk.outputs.ndk-path }}
 
